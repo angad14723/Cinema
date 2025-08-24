@@ -1,0 +1,24 @@
+{
+  "source": "/Users/angad/Documents/GitHub/Cinema/Cinema/App/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      }
+    ]
+  },
+  "version": 1
+}

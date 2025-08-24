@@ -1,0 +1,16 @@
+/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Home/View/HomeView.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/App/CinemaApp.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Home/Model/MovieResponse.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Home/View/MovieRowView.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Home/ViewModel/MoviesViewModel.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Utils/NetworkError.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Utils/APIConstants.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Services/MoviesServiceProtocols.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Search/View/SearchView.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Networking/NetworkManager.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/Services/MoviesService.swift
+/Users/angad/Documents/GitHub/Cinema/Cinema/App/ContentView.swift
+/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/DerivedSources/CoreDataGenerated/Cinema/Item+CoreDataClass.swift
+/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/DerivedSources/CoreDataGenerated/Cinema/Item+CoreDataProperties.swift
+/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/DerivedSources/CoreDataGenerated/Cinema/Cinema+CoreDataModel.swift
+/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/DerivedSources/GeneratedAssetSymbols.swift

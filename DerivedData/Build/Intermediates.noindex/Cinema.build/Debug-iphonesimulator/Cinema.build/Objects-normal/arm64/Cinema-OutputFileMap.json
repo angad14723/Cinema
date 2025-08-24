@@ -1,0 +1,168 @@
+{
+  "" : {
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema-master.dia",
+    "emit-module-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema-master-emit-module.dia",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema-master.swiftdeps"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/App/CinemaApp.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/CinemaApp.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/CinemaApp.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/CinemaApp.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/CinemaApp.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/CinemaApp.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/CinemaApp.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/CinemaApp.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/CinemaApp~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/App/ContentView.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Networking/NetworkManager.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkManager.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkManager.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkManager.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkManager.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkManager.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkManager.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkManager.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkManager~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Services/MoviesService.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesService.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesService.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesService.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesService.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesService.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesService.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesService.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesService~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Services/MoviesServiceProtocols.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesServiceProtocols.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesServiceProtocols.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesServiceProtocols.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesServiceProtocols.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesServiceProtocols.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesServiceProtocols.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesServiceProtocols.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesServiceProtocols~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Utils/APIConstants.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/APIConstants.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/APIConstants.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/APIConstants.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/APIConstants.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/APIConstants.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/APIConstants.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/APIConstants.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/APIConstants~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Utils/NetworkError.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkError.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkError.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkError.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkError.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkError.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkError.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkError.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/NetworkError~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Home/Model/MovieResponse.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieResponse.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieResponse.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieResponse.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieResponse.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieResponse.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieResponse.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieResponse.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieResponse~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Home/View/HomeView.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Home/View/MovieRowView.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieRowView.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieRowView.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieRowView.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieRowView.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieRowView.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieRowView.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieRowView.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MovieRowView~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Home/ViewModel/MoviesViewModel.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesViewModel.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesViewModel.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesViewModel.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesViewModel.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesViewModel.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesViewModel.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesViewModel.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/MoviesViewModel~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Search/View/SearchView.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/SearchView.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/SearchView.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/SearchView.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/SearchView~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/DerivedSources/CoreDataGenerated/Cinema/Cinema+CoreDataModel.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema+CoreDataModel.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema+CoreDataModel.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema+CoreDataModel.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema+CoreDataModel.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema+CoreDataModel.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Cinema+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/DerivedSources/CoreDataGenerated/Cinema/Item+CoreDataClass.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataClass.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataClass.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataClass.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/DerivedSources/CoreDataGenerated/Cinema/Item+CoreDataProperties.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataProperties.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataProperties.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataProperties.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/Item+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/angad/Documents/GitHub/Cinema/DerivedData/Build/Intermediates.noindex/Cinema.build/Debug-iphonesimulator/Cinema.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

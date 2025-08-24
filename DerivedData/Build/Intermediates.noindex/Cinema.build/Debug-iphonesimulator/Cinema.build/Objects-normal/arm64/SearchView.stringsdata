@@ -1,0 +1,16 @@
+{
+  "source": "/Users/angad/Documents/GitHub/Cinema/Cinema/Views/Search/View/SearchView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "SearchView",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 12
+        }
+      }
+    ]
+  },
+  "version": 1
+}
