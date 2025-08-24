@@ -6,14 +6,19 @@
 //
 
 import SwiftUI
+import CoreData
 
 @main
 struct CinemaApp: App {
     
-
+    let persistenceController = CoreDataManager.shared
+    @StateObject private var deepLinkHandler = DeepLinkHandler()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(\.managedObjectContext, persistenceController.context ?? NSManagedObjectContext())
+                .handleDeepLinks(deepLinkHandler)
         }
     }
 }

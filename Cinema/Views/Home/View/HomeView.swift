@@ -37,7 +37,7 @@ struct HomeView: View {
                             .padding()
                         Button("Retry") {
                             Task {
-                                await viewModel.loadMovies()
+                                await viewModel.refreshData()
                             }
                         }
                         .buttonStyle(.borderedProminent)
@@ -45,18 +45,80 @@ struct HomeView: View {
                     .frame(maxWidth: .infinity, maxHeight: .infinity)
                 } else {
                     ScrollView {
-                        LazyVStack(spacing: 16) {
-                            ForEach(viewModel.trendingMovies) { movie in
-                                MovieRowView(movie: movie)
+                        LazyVStack(spacing: 24) {
+                            // Trending Movies Section
+                            VStack(alignment: .leading, spacing: 12) {
+                                Text("Trending Movies")
+                                    .font(.title2)
+                                    .fontWeight(.bold)
+                                    .padding(.horizontal)
+                                
+                                LazyVStack(spacing: 12) {
+                                    ForEach(viewModel.trendingMovies) { movie in
+                                        NavigationLink(destination: MovieDetailsView(movie: movie)) {
+                                            MovieRowView(
+                                                movie: movie,
+                                                onBookmarkToggle: { movie in
+                                                    viewModel.toggleBookmark(for: movie)
+                                                },
+                                                isBookmarked: viewModel.isBookmarked(movieId: movie.id)
+                                            )
+                                        }
+                                        .buttonStyle(PlainButtonStyle())
+                                        
+                                        if movie.id == viewModel.trendingMovies.last?.id && viewModel.hasMoreTrendingMovies {
+                                            ProgressView()
+                                                .onAppear {
+                                                    Task {
+                                                        await viewModel.loadMoreTrendingMovies()
+                                                    }
+                                                }
+                                        }
+                                    }
+                                }
+                                .padding(.horizontal)
+                            }
+                            
+                            // Now Playing Movies Section
+                            VStack(alignment: .leading, spacing: 12) {
+                                Text("Now Playing")
+                                    .font(.title2)
+                                    .fontWeight(.bold)
+                                    .padding(.horizontal)
+                                
+                                LazyVStack(spacing: 12) {
+                                    ForEach(viewModel.nowPlayingMovies) { movie in
+                                        NavigationLink(destination: MovieDetailsView(movie: movie)) {
+                                            MovieRowView(
+                                                movie: movie,
+                                                onBookmarkToggle: { movie in
+                                                    viewModel.toggleBookmark(for: movie)
+                                                },
+                                                isBookmarked: viewModel.isBookmarked(movieId: movie.id)
+                                            )
+                                        }
+                                        .buttonStyle(PlainButtonStyle())
+                                        
+                                        if movie.id == viewModel.nowPlayingMovies.last?.id && viewModel.hasMoreNowPlayingMovies {
+                                            ProgressView()
+                                                .onAppear {
+                                                    Task {
+                                                        await viewModel.loadMoreNowPlayingMovies()
+                                                    }
+                                                }
+                                        }
+                                    }
+                                }
+                                .padding(.horizontal)
                             }
                         }
-                        .padding()
+                        .padding(.vertical)
                     }
                 }
             }
-            .navigationTitle("Trending Movies")
+            .navigationTitle("Cinema")
             .refreshable {
-                await viewModel.loadMovies()
+                await viewModel.refreshData()
             }
         }
     }

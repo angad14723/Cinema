@@ -42,11 +42,36 @@ struct Movie: Codable, Identifiable {
     
     var posterURL: URL? {
         guard let posterPath = posterPath else { return nil }
-        return URL(string: "https://image.tmdb.org/t/p/w500\(posterPath)")
+        return URL(string: "\(APIConstants.imageBaseURL)/\(APIConstants.posterSize)\(posterPath)")
     }
     
     var backdropURL: URL? {
         guard let backdropPath = backdropPath else { return nil }
-        return URL(string: "https://image.tmdb.org/t/p/w780\(backdropPath)")
+        return URL(string: "\(APIConstants.imageBaseURL)/\(APIConstants.backdropSize)\(backdropPath)")
+    }
+    
+    var thumbnailURL: URL? {
+        guard let posterPath = posterPath else { return nil }
+        return URL(string: "\(APIConstants.imageBaseURL)/\(APIConstants.thumbnailSize)\(posterPath)")
+    }
+    
+    var shareURL: URL? {
+        return URL(string: "\(APIConstants.deepLinkScheme)://movie/\(id)")
+    }
+    
+    var formattedReleaseDate: String {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyy-MM-dd"
+        
+        guard let date = formatter.date(from: releaseDate) else {
+            return releaseDate
+        }
+        
+        formatter.dateStyle = .medium
+        return formatter.string(from: date)
+    }
+    
+    var formattedRating: String {
+        return String(format: "%.1f", voteAverage)
     }
 }

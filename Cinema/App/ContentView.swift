@@ -12,7 +12,6 @@ struct ContentView: View {
     
     var body: some View {
         TabView {
-            
             HomeView()
                 .tabItem {
                     Image(systemName: "house.fill")
@@ -23,6 +22,12 @@ struct ContentView: View {
                 .tabItem {
                     Image(systemName: "magnifyingglass")
                     Text("Search")
+                }
+            
+            BookmarkedMoviesView()
+                .tabItem {
+                    Image(systemName: "bookmark.fill")
+                    Text("Bookmarks")
                 }
         }
     }
