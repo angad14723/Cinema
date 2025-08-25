@@ -58,3 +58,5 @@ I've successfully implemented a comprehensive Movies Database iOS application
 <img width="367" height="755" alt="Screenshot 2025-08-25 at 11 45 52 AM" src="https://github.com/user-attachments/assets/22e20cbe-8280-4660-8546-16cbbbb1841b" />
 <img width="367" height="763" alt="Screenshot 2025-08-25 at 11 46 03 AM" src="https://github.com/user-attachments/assets/a2a4f08a-8879-4016-a23e-99efa040c11e" />
 <img width="366" height="761" alt="Screenshot 2025-08-25 at 11 46 14 AM" src="https://github.com/user-attachments/assets/6afa33a8-8290-439a-9b6f-ea2f477bf4f5" />
+<img width="361" height="755" alt="Screenshot 2025-08-25 at 12 03 14 PM" src="https://github.com/user-attachments/assets/429d4373-da48-475b-8ea3-ffc2999541cc" />
+
