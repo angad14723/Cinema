@@ -15,13 +15,13 @@ class BookmarkedMoviesViewModel: ObservableObject {
     
     private lazy var coreDataManager = CoreDataManager.shared
     
-    init() {
-        Task { @MainActor in
-            // Delay loading to allow Core Data to initialize
-            try? await Task.sleep(nanoseconds: 100_000_000) // 0.1 second delay
-            await loadBookmarkedMovies()
-        }
-    }
+//    init() {
+//        Task { @MainActor in
+//            // Delay loading to allow Core Data to initialize
+//            try? await Task.sleep(nanoseconds: 100_000_000) // 0.1 second delay
+//            await loadBookmarkedMovies()
+//        }
+//    }
     
     @MainActor
     func loadBookmarkedMovies() async {
